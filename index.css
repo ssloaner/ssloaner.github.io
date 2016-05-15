@@ -1,0 +1,45 @@
+html {
+      height: 100%;
+    }
+    body {
+       width: 600px;
+       height: 40%;
+       background-color: #A4A4A4;
+      padding: 5px;
+      font-size: 16;
+    }
+
+    * {
+      font-family: Georgia;
+    }
+
+    header {
+        background-color:#A4A4A4;
+        padding: 5px;
+        height: 80px;
+        font-size:25px;
+        text-shadow: 1px 1px 1px #1111;
+    }
+    img{
+        height: 150px;
+        width: 150px;
+    }
+    nav ul {
+        padding:10px;
+        border-bottom: 10px;
+        list-style-type: none;
+    }
+    nav li {
+        font-family: sans-serif;
+        color: black;
+    }
+    nav li a {
+        display:
+        height: 205px;
+    }
+    a {
+        color: red;
+    }
+    aside ul {
+        list-style-type: none;
+    }
